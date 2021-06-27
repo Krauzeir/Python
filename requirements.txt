@@ -1,0 +1,3 @@
+colored
+
+# lembrar de das ctrl + s em .txt e .json

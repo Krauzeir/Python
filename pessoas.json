@@ -1,0 +1,28 @@
+{    
+    "descricao" : "uma colecao de informaçoes sobre pessoas",
+
+    "pessoas" : [
+        {
+            "nome" : "João da Silva",
+            "idade" : 25,
+            "profissao" : "medico"
+        },
+        {
+            "nome" : "Bruno Martin",
+            "idade" : 27,
+            "profissao" : "day trader"
+        },
+        {
+            "nome" : "Alex Andre",
+            "idade" : 22,
+            "profissao" : "nada"
+        },
+        {
+            "nome" : "Lucas Brito",
+            "idade" : 27,
+            "profissao" : "Web Designer"
+        }
+    ]
+}
+
+
